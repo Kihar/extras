@@ -15,6 +15,8 @@ import ru.tehkode.permissions.bukkit.PermissionsEx;
 
 public class PlayerInfo implements CommandExecutor {
 	
+	//to be updated to fit our new core.
+	
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		Player p = (Player) sender;
 		if(cmd.getName().equalsIgnoreCase("playerinfo")) {
