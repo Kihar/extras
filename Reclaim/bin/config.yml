@@ -1,0 +1,33 @@
+basiccmds:
+ - 'give %player% diamond 1'
+ - 'msg %player% gg u reclaimed basic'
+goldcmds:
+ - 'give %player% diamond 2'
+ - 'msg %player% gg u reclaimed gold 2 diamonds'
+platcmds:
+ - 'give %player% diamond 3'
+ - 'msg %player% gg u reclaimed platinum and u got 3 diamonds'
+partnercmds:
+ - 'give %player% diamond 4'
+ - 'msg %player% nice partner rank'
+youtubecmds:
+ - 'give %player% diamond 5'
+ - 'msg %player% gg bet u got 1 sub noob'
+famouscmds:
+ - 'give %player% diamond 6'
+ - 'msg %player% lel i bet you have 2 subs 12 yer old'
+kiharcmds:
+ - 'give %player% diamond 7'
+ - 'msg %player% leave now kid'
+mediccmds:
+ - 'give %player% diamond 8'
+ - 'msg %player% nice medic rank lol'
+
+basic-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &a&l%rank% rank."
+gold-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &6&l%rank% rank."
+plat-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &b&l%rank% rank."
+kihar-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &6&l%rank% rank."
+medic-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &c&l%rank% rank."
+partner-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &4&l%rank% rank."
+youtube-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &f&l%rank% rank."
+famous-broadcast: "&6[Kihar] &e%player% &ahas reclaimed their &d&l%rank% rank."

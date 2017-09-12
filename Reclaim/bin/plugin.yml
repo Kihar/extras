@@ -1,0 +1,11 @@
+name: Utils
+main: me.backend.reclaim.Reclaim
+version: 1.0
+author: Backend
+description: Utils plugin made by Backend for the Kihar Network!
+commands:
+   reclaim:
+   claim:
+   setrank:
+   monkey:
+   playerinfo:
